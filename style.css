@@ -1,0 +1,15 @@
+.inputfield{
+    height: 50px;
+}
+
+.compose{
+    height: 50px;
+}
+
+.subject{
+    height: 54.5px;
+}
+
+tr.spaceUnder>td {
+    padding-bottom: 1em;
+  }
